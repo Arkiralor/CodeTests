@@ -2,6 +2,7 @@ from aws_secretsmanager_caching import SecretCache, SecretCacheConfig
 from os import getenv, path, environ
 import botocore
 from config import BASE_DIR
+import botocore.session
 
 from dotenv import load_dotenv
 
