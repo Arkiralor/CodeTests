@@ -1,0 +1,4 @@
+autopep8
+python-dotenv
+boto3
+aws-secretsmanager-caching
